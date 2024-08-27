@@ -39,15 +39,18 @@ Request Body
 
 ## Retrieve all books
 
-GET /api/books
+```
+1.GET /api/books
 
-Optional Query Parameters:
+2.Optional Query Parameters:
 
    limit (number) - Limit the number of results
    
    skip (number) - Skip a number of results
    
    sort (string) - Sort by a specific field, e.g., title or publishedDate
+
+```
 
 
 
