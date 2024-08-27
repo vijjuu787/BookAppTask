@@ -27,10 +27,11 @@ A RESTful API built with Node.js and Express to perform CRUD operations on a boo
 ```
 ## Endpoints
 
--**Create a new book
+Create a new book
 
--**POST /api/books
--**Request Body
+POST /api/books
+
+Request Body
 
 ![image](https://github.com/user-attachments/assets/f6550e9a-ba8a-4551-8505-4392cbc3600a)
 
