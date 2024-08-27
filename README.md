@@ -11,5 +11,28 @@ A RESTful API built with Node.js and Express to perform CRUD operations on a boo
 6.Data validation and error handling for robust API usage
 ```
 
+## Bonus Features
+```
+1.Pagination for book listing
+2.Search functionality to filter books by title or author
+3.Sorting by published date or title
+```
+
+## Technologies Used
+```
+1.Node.js
+2.Express.js
+3.MongoDB
+4.Mongoose
+```
+## Endpoints
+
+-**Create a new book
+
+-**POST /api/books
+-**Request Body
+
+![image](https://github.com/user-attachments/assets/f6550e9a-ba8a-4551-8505-4392cbc3600a)
+
 
 
