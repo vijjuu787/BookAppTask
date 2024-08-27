@@ -33,7 +33,21 @@ POST /api/books
 
 Request Body
 
-![image](https://github.com/user-attachments/assets/f6550e9a-ba8a-4551-8505-4392cbc3600a)
+![image](https://github.com/user-attachments/assets/6e22ae0e-67ce-4493-a944-50024f919247)
+
+
+
+## Retrieve all books
+
+GET /api/books
+
+Optional Query Parameters:
+
+   limit (number) - Limit the number of results
+   
+   skip (number) - Skip a number of results
+   
+   sort (string) - Sort by a specific field, e.g., title or publishedDate
 
 
 
