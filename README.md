@@ -52,5 +52,25 @@ Request Body
 
 ```
 
+## Retrieve a specific book by ID
+
+```
+GET /api/books/:id
+```
+
+## Update a book's information
+
+```
+PUT /api/books/:id
+
+Request Body: (only include fields to update)
+```
+![image](https://github.com/user-attachments/assets/45507322-015c-434a-9906-e3a853ecef51)
+
+## Delete a book
+
+```
+DELETE /api/books/:id
+```
 
 
