@@ -80,5 +80,14 @@ used limit for limited query
 
 used skip for skips query
 
-sortType sort the query by ** publishedDate ** ,** title ** and  default by ** ID **
+sortType sort the query by **publishedDate** ,**title** and  default by **ID**
+
+
+## booksearch
+GET api/bookSearch?query=Wuthering Heights
+
+bookSearch by query , query can be **author** or **title**
+
+
+
 
