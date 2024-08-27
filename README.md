@@ -72,5 +72,11 @@ Request Body: (only include fields to update)
 ```
 DELETE /api/books/:id
 ```
+## pagination 
+```
+GET api/books?limit=3&skip=7&sortType=publishedDate
 
-
+used limit for limited query
+used skip for skips query
+sortType sort the query by ** publishedDate ** ,** title ** and  default by ** ID **
+```
